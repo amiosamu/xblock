@@ -1,0 +1,49 @@
+/* NFTMinter.css */
+
+.nft-minter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .connected {
+    text-align: center;
+  }
+  
+  Form {
+    margin-top: 20px;
+  }
+  
+  FormGroup {
+    margin-bottom: 10px;
+  }
+  
+  FormControl {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  Button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+  
+  Button:hover {
+    background-color: #0056b3;
+  }
+  
