@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@tenderly/hardhat-tenderly": "^1.7.7",
+    "axios": "^1.5.1",
+    "dotenv": "^16.3.1",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.18.1"
+  },
+  "name": "xblock",
+  "description": "blockchain practice",
+  "version": "1.0.0",
+  "main": "test.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
